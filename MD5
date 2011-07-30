@@ -1,0 +1,15 @@
+72565108e6103b5227c07f563beeb715 *DESCRIPTION
+577fad4dc2809d66b03525a9aa7bbfa0 *NAMESPACE
+438d4fade3e2640b82216d4bb11ef7f0 *R/subfunctions.R
+4000cf50426c23737010807ac02b5cb5 *R/tpam.cv.R
+e7e58f092d0961a118af6eed363b6115 *R/tpam.plotcv.R
+0db75c5a28714ba9c910ec27024b4e9b *R/tpam.predict.R
+3d8c9b2b855c813752df6dcc98beb2a3 *R/tpam.project.R
+8a23c0819f2a43fce9f546d9200cae1c *R/tpam.train.R
+0fa76aaa5b31c549be84a611fd725439 *man/TPAM-package.Rd
+7e9cbe880d70aa14d64af0de44aef2e3 *man/tpam.cv.Rd
+e5c9dd081310e2ba6706cd01d230d169 *man/tpam.internal.Rd
+8abef0600496a45399d168875e5bd87b *man/tpam.plotcv.Rd
+f19910f559539985fc3a93f8f8c1c250 *man/tpam.predict.Rd
+a6bd650d836049582c32833d22028899 *man/tpam.project.Rd
+5ba7a731912f03471664518fa5125499 *man/tpam.train.Rd

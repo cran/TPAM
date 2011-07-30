@@ -1,0 +1,9 @@
+# Export all names
+exportPattern(tpam.cv, tpam.plotcv, tpam.predict, tpam.project, tpam.train)
+
+# Import all packages listed as Imports or Depends
+import(
+  pamr,
+  MASS,
+  Matrix
+)
